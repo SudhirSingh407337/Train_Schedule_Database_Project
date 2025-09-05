@@ -18,6 +18,14 @@ This project is an **online railway booking system** that allows customers to se
 
 ---
 
+### 🚆 Train Schedule Database Project Video
+
+[![Train Schedule Database Project](https://img.youtube.com/vi/qWJEDCIzUm4/0.jpg)](https://youtu.be/qWJEDCIzUm4)
+
+🎥 [Train Schedule Database Project](https://youtu.be/qWJEDCIzUm4) 🎥  
+
+---
+
 ## 🛠️ Technologies Used
 - Java  
 - JSP/Servlets  
